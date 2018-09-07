@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Level>
+	<width>8000.0</width>
+	<depth>20000.0</depth>
+	<levelTopY>80</levelTopY>
+	<levelBottomY>-100</levelBottomY>
+	<groundTexture>Level/Ground.png</groundTexture>
+	<skyTexture>Level/Sky.png</skyTexture>
+</Level>
+<Robot>
+	<posX>0.0f</posX>
+	<posZ>-30.0</posZ>
+	<headTexture>Robot/Face.png</headTexture>
+	<headTexture>Robot/LeftSide.png</headTexture>
+	<headTexture>Robot/RightSide.png</headTexture>
+	<headTexture>Robot/Top.png</headTexture>
+	<armTexture>Robot/TopArm.png</armTexture>
+	<armTexture>Robot/Hand.png</armTexture>
+	<armTexture>Robot/MainArm.png</armTexture>
+	<chestTexture>Robot/Chest.png</chestTexture>
+	<legTexture>Robot/Leg.png</legTexture>
+	<footTexture>Robot/Foot.png</footTexture>	
+</Robot>

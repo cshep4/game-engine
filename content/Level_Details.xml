@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<Level>
+	<width>800.0</width>
+	<depth>600.0</depth>
+	<levelTopY>0</levelTopY>
+	<levelBottomY>0</levelBottomY>
+	<groundTexture>Level/Ground.png</groundTexture>
+	<skyTexture>Level/Sky.png</skyTexture>
+</Level>
+<Building>
+	<width>100</width>
+	<height>50</height>
+	<depth>100</depth>
+	<XPos>400.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>-200.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>
+</Building>
+<Building>
+	<width>100</width>
+	<height>50</height>
+	<depth>100</depth>
+	<XPos>250.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>-50.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>50</width>
+	<height>100</height>
+	<depth>50</depth>
+	<XPos>50.0</XPos>
+	<YPos>100.0</YPos>
+	<ZPos>-200.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>100</width>
+	<height>50</height>
+	<depth>100</depth>
+	<XPos>50.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>100.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>200</width>
+	<height>50</height>
+	<depth>100</depth>
+	<XPos>400.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>300.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>200</width>
+	<height>50</height>
+	<depth>200</depth>
+	<XPos>-100.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>300.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>100</width>
+	<height>50</height>
+	<depth>100</depth>
+	<XPos>-150.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>-50.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>50</width>
+	<height>50</height>
+	<depth>150</depth>
+	<XPos>-350.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>-150.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>100</width>
+	<height>50</height>
+	<depth>100</depth>
+	<XPos>150.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>250.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>50</width>
+	<height>100</height>
+	<depth>50</depth>
+	<XPos>300.0</XPos>
+	<YPos>100.0</YPos>
+	<ZPos>100.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Building>
+	<width>50</width>
+	<height>100</height>
+	<depth>50</depth>
+	<XPos>375.0</XPos>
+	<YPos>100.0</YPos>
+	<ZPos>-50.0</ZPos>
+	<frontTextureFile>../../content/Textures/Building/BuidingTexture1.png</frontTextureFile>
+	<backTextureFile>../../content/Textures/Building/BuidingTexture2.png</backTextureFile>
+	<rightTextureFile>../../content/Textures/Building/BuidingTexture3.png</rightTextureFile>
+	<leftTextureFile>../../content/Textures/Building/BuidingTexture4.png</leftTextureFile>
+	<roofTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</roofTextureFile>
+	<bottomTextureFile>../../content/Textures/Building/BuidingTextureRoof.png</bottomTextureFile>	
+</Building>
+<Robot>
+	<posX>0.0f</posX>
+	<posZ>-30.0f</posZ>
+	<faceTexture>../../content/Textures/Robot/Face.png</faceTexture>
+	<backHeadTexture>../../content/Textures/Robot/Back.png</backHeadTexture>
+	<leftHeadTexture>../../content/Textures/Robot/LeftSide.png</leftHeadTexture>
+	<rightHeadTexture>../../content/Textures/Robot/RightSide.png</rightHeadTexture>
+	<topHeadTexture>../../content/Textures/Robot/Top.png</topHeadTexture>
+	<bottomHeadTexture>../../content/Textures/Robot/Bottom.png</bottomHeadTexture>
+	<armTexture>../../content/Textures/Robot/Arm.png</armTexture>
+	<armTopTexture>../../content/Textures/Robot/TopArm.png</armTopTexture>
+	<armBottomTexture>../../content/Textures/Robot/Hand.png</armBottomTexture>
+	<chestTexture>../../content/Textures/Robot/Chest.png</chestTexture>
+	<legTexture>../../content/Textures/Robot/Leg.png</legTexture>
+	<footTexture>../../content/Textures/Robot/Foot.png</footTexture>	
+</Robot>
+<EnemyRobot>
+	<posX>-350.0f</posX>
+	<posZ>200.0f</posZ>
+	<faceTexture>../../content/Textures/Robot/Face.png</faceTexture>
+	<backHeadTexture>../../content/Textures/Robot/Back.png</backHeadTexture>
+	<leftHeadTexture>../../content/Textures/Robot/LeftSide.png</leftHeadTexture>
+	<rightHeadTexture>../../content/Textures/Robot/RightSide.png</rightHeadTexture>
+	<topHeadTexture>../../content/Textures/Robot/Top.png</topHeadTexture>
+	<bottomHeadTexture>../../content/Textures/Robot/Bottom.png</bottomHeadTexture>
+	<armTexture>../../content/Textures/Robot/Arm.png</armTexture>
+	<armTopTexture>../../content/Textures/Robot/TopArm.png</armTopTexture>
+	<armBottomTexture>../../content/Textures/Robot/Hand.png</armBottomTexture>
+	<chestTexture>../../content/Textures/Robot/Chest.png</chestTexture>
+	<legTexture>../../content/Textures/Robot/Leg.png</legTexture>
+	<footTexture>../../content/Textures/Robot/Foot.png</footTexture>		
+	<speed>1</speed>	
+</EnemyRobot>
+<LightSource>
+	<XPos>-300.0</XPos>
+	<YPos>25.0</YPos>
+	<ZPos>202.0</ZPos>
+	<AttenuationFactor>0.001</AttenuationFactor>
+</LightSource>
+<LightSource>
+	<XPos>0.0</XPos>
+	<YPos>50.0</YPos>
+	<ZPos>-100.0</ZPos>
+	<AttenuationFactor>0.00005</AttenuationFactor>
+</LightSource>
+<LightSource>
+	<XPos>-250.0</XPos>
+	<YPos>25.0</YPos>
+	<ZPos>-48.0</ZPos>
+	<AttenuationFactor>0.001</AttenuationFactor>
+</LightSource>
+<LightSource>
+	<XPos>251.0</XPos>
+	<YPos>25.0</YPos>
+	<ZPos>-48.0</ZPos>
+	<AttenuationFactor>0.001</AttenuationFactor>
+</LightSource>
+<LightSource>
+	<XPos>200.0</XPos>
+	<YPos>25.0</YPos>
+	<ZPos>302.0</ZPos>
+	<AttenuationFactor>0.001</AttenuationFactor>
+</LightSource>
+<LightSource>
+	<XPos>-99.0</XPos>
+	<YPos>25.0</YPos>
+	<ZPos>400.0</ZPos>
+	<AttenuationFactor>0.001</AttenuationFactor>
+</LightSource>

@@ -1,0 +1,22 @@
+﻿Build started 01/04/2016 18:20:46.
+     1>Project "D:\Program Files\Dropbox\04 Third Year - CGP\Games Programming\Coursework\dev\Coursework\test.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files\Dropbox\04 Third Year - CGP\Games Programming\Coursework\dev\Coursework\..\..\bin\Debug\Coursework.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\lib freeglut.lib glew32.lib "sfml-graphics-d.lib" "sfml-main-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Program Files\Dropbox\04 Third Year - CGP\Games Programming\Coursework\dev\Coursework\..\..\bin\Debug\Coursework.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program Files\Dropbox\04 Third Year - CGP\Games Programming\Coursework\dev\Coursework\..\..\bin\Debug\Coursework.lib" /MACHINE:X86 Debug\Coursework\Coursework.res
+         Debug\Coursework\Building.obj
+         Debug\Coursework\Camera.obj
+         Debug\Coursework\OpenGL.obj
+         Debug\Coursework\CubeObject.obj
+         Debug\Coursework\EnemyRobot.obj
+         Debug\Coursework\Environment.obj
+         Debug\Coursework\FileLoader.obj
+         Debug\Coursework\GameObject.obj
+         Debug\Coursework\LightSource.obj
+         Debug\Coursework\Robot.obj
+         Debug\Coursework\TextureObject.obj
+         Debug\Coursework\main.obj
+         test.vcxproj -> D:\Program Files\Dropbox\04 Third Year - CGP\Games Programming\Coursework\dev\Coursework\..\..\bin\Debug\Coursework.exe
+     1>Done Building Project "D:\Program Files\Dropbox\04 Third Year - CGP\Games Programming\Coursework\dev\Coursework\test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.84
